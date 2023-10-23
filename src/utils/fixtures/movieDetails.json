@@ -1,0 +1,41 @@
+{
+  "id": 129670,
+  "title": "Nebraska",
+  "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+  "genres": [
+    { "id": 18, "name": "Drama" },
+    { "id": 12, "name": "Adventure" }
+  ],
+  "backdrop_path": "/jL6QryTA0tm8s0CElVOoYTqK7bj.jpg",
+  "poster_path": "/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
+  "original_language": "en",
+  "release_date": "2013-09-21",
+  "runtime": 115,
+  "images": {
+    "backdrops": [{ "file_path": "/jL6QryTA0tm8s0CElVOoYTqK7bj.jpg" }],
+    "posters": [
+      { "file_path": "/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg" },
+      { "file_path": "/3WdcebeFY1ProN3MxKuaT78CK8w.jpg" },
+      { "file_path": "/mS88pkn2ulf55Tek37WpiUtpU1W.jpg" },
+      { "file_path": "/upl9ToXRzpM5I7kjfUfTglwMwJN.jpg" },
+      { "file_path": "/2McMby754aCuWXiShfeTHU3Wdrq.jpg" },
+      { "file_path": "/fMo2cyelrpof3GuEVwe9ABru02G.jpg" },
+      { "file_path": "/o2ptRtXultZEYKxZxPKn1pLmhqo.jpg" },
+      { "file_path": "/PTDMvWerBzqxs1hczVyWxFfsdX.jpg" },
+      { "file_path": "/5oUD74RWKg9frYZa0qKo6Y9ZfIv.jpg" },
+      { "file_path": "/egaWx0FDDZSzPhXJLdF9NnCYLUM.jpg" }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "key": "YvW_DmfKfSk",
+        "site": "YouTube",
+        "name": "Nebraska Movie Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  "vote_average": 7.435,
+  "vote_count": 1583
+}
